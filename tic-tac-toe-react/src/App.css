@@ -1,0 +1,16 @@
+.board-grid{
+  display: grid;
+  grid-template-columns: repeat(3, 100px);
+  gap: 5px;
+  width: 310px;
+  margin-top: 30px ;
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+  font-size:2rem;
+  cursor: pointer;
+  background-color: #ffffff;
+  border: 2px solid #333333;
+}
