@@ -1,5 +1,3 @@
-package game2_blackjack_java;
-
 public class Card {
     private String suit;
     private String rank;

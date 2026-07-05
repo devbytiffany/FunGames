@@ -1,5 +1,3 @@
-package game2_blackjack_java;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
